@@ -8,8 +8,8 @@
     "esundahl/rotate-out": "*",
     "esundahl/rotate-out-down-left": "*",
     "esundahl/rotate-out-down-right": "*",
-    "esundahl/rotate-out-out-up-left": "*",
-    "esundahl/rotate-out-out-up-right": "*"
+    "esundahl/rotate-out-up-left": "*",
+    "esundahl/rotate-out-up-right": "*"
   },
   "development": {},
   "license": "MIT"
