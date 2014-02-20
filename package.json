@@ -1,0 +1,14 @@
+{
+  "name": "esundahl-rotating-exits",
+  "description": "rotating exit animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-rotate-out": "git://github.com/npmcomponent/esundahl-rotate-out.git",
+    "esundahl-rotate-out-down-left": "git://github.com/npmcomponent/esundahl-rotate-out-down-left.git",
+    "esundahl-rotate-out-down-right": "git://github.com/npmcomponent/esundahl-rotate-out-down-right.git",
+    "esundahl-rotate-out-up-left": "git://github.com/npmcomponent/esundahl-rotate-out-up-left.git",
+    "esundahl-rotate-out-up-right": "git://github.com/npmcomponent/esundahl-rotate-out-up-right.git"
+  },
+  "license": "MIT"
+}
